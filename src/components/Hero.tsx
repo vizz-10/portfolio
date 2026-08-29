@@ -203,7 +203,7 @@ export default function Hero() {
               <div className="relative w-72 h-80 sm:w-80 sm:h-96 lg:w-[380px] lg:h-[460px] rounded-2xl overflow-hidden border border-white/8 bg-[#0f0f1e]">
                 {/* Portrait image */}
                 <img
-                  src="/profile.png"
+                  src="/portfolio/profile.png"
                   alt="Vishnu Murthy"
                   className="w-full h-full object-cover"
                   onLoad={() => console.log('✅ Profile image loaded successfully')}

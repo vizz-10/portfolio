@@ -1,0 +1,10 @@
+{
+  "description": "Portfolio of Vishnu Murthy Sonchuri — Computer Science Engineering student building AI-powered, full-stack and software engineering projects.",
+  "robots": {
+    "index": true
+  },
+  "accessibility": {
+    "addBypassLinks": false,
+    "ignoreReducedMotion": false
+  }
+}

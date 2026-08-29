@@ -1,0 +1,726 @@
+- generic [ref=e3]:
+  - navigation [ref=e4]:
+    - generic [ref=e5]:
+      - button "Go to top" [ref=e6]:
+        - generic [ref=e7]: VM
+        - generic [ref=e8]: Vishnu Murthy
+      - generic [ref=e9]:
+        - button "Home" [ref=e10]: Home
+        - button "About" [ref=e12]
+        - button "Projects" [ref=e13]
+        - button "Skills" [ref=e14]
+        - button "Experience" [ref=e15]
+        - button "Credentials" [ref=e16]
+        - button "Contact" [ref=e17]
+      - link "Let's Talk" [ref=e19] [cursor=pointer]:
+        - /url: mailto:vishnumurthysonchuri@gmail.com
+  - main [ref=e20]:
+    - generic [ref=e22]:
+      - generic [ref=e23]:
+        - generic [ref=e24]:
+          - generic [ref=e27]: Computer Science × AI × Software Engineering
+          - heading "BUILDING INTELLIGENT DIGITAL PRODUCTS." [level=1] [ref=e28]:
+            - generic [ref=e29]: BUILDING
+            - generic [ref=e30]: INTELLIGENT
+            - generic [ref=e31]: DIGITAL
+            - generic [ref=e32]: PRODUCTS.
+          - paragraph [ref=e33]: I'm Vishnu Murthy, a Computer Science Engineering student focused on software engineering, artificial intelligence and full-stack product development.
+          - generic [ref=e34]:
+            - button "Explore My Work" [ref=e35]:
+              - text: Explore My Work
+              - img [ref=e36]
+            - link "Download Resume (not yet available)" [ref=e38]:
+              - /url: "#"
+              - text: Resume — Coming Soon
+          - generic [ref=e39]:
+            - generic [ref=e40]: Find me
+            - link "GitHub" [ref=e41] [cursor=pointer]:
+              - /url: https://github.com/vizz-10
+              - img [ref=e42]
+            - link "LinkedIn" [ref=e44] [cursor=pointer]:
+              - /url: https://www.linkedin.com/in/vishnumurthysonchuri/
+              - img [ref=e45]
+            - link "Email" [ref=e47] [cursor=pointer]:
+              - /url: mailto:vishnumurthysonchuri@gmail.com
+              - img [ref=e48]
+        - generic [ref=e51]:
+          - generic [ref=e54]:
+            - generic [ref=e58]: VM
+            - paragraph [ref=e59]: Portrait Placeholder
+            - paragraph [ref=e60]: Replace with actual photo
+          - generic [ref=e65]:
+            - paragraph [ref=e66]: AI / ML
+            - paragraph [ref=e67]: Engineering Intelligence
+          - generic [ref=e68]:
+            - paragraph [ref=e69]: FULL STACK
+            - paragraph [ref=e70]: End-to-End Products
+          - generic [ref=e71]:
+            - paragraph [ref=e72]: 200+ Problems
+            - paragraph [ref=e73]: LeetCode & Beyond
+          - generic [ref=e74]:
+            - paragraph [ref=e75]: SWE
+            - paragraph [ref=e76]: Software Engineering
+      - button "Scroll down" [ref=e77]:
+        - generic [ref=e78]: Scroll
+        - img [ref=e80]
+    - generic [ref=e84]:
+      - generic [ref=e85]:
+        - generic [ref=e87]: 0+
+        - generic [ref=e88]: Coding Problems Solved
+      - generic [ref=e89]:
+        - generic [ref=e90]: "0"
+        - generic [ref=e91]: Major Projects
+      - generic [ref=e92]:
+        - generic [ref=e93]: "0"
+        - generic [ref=e94]: Industry Credentials
+      - generic [ref=e95]:
+        - generic [ref=e96]: "0"
+        - generic [ref=e97]: B.Tech Journey Begins
+    - generic [ref=e100]:
+      - generic [ref=e101]:
+        - generic [ref=e102]:
+          - generic [ref=e103]: About
+          - generic [ref=e105]: // 01
+        - heading "Engineering with Curiosity." [level=2] [ref=e106]:
+          - text: Engineering with
+          - text: Curiosity.
+        - generic [ref=e107]:
+          - paragraph [ref=e108]: I'm a Computer Science Engineering student at Lovely Professional University with a strong interest in software engineering, artificial intelligence and full-stack development.
+          - paragraph [ref=e109]: I enjoy turning ideas into functional digital products — from AI-powered applications and real-time communication platforms to intelligent study tools and e-commerce systems.
+          - paragraph [ref=e110]: My current focus is strengthening my foundations in software engineering, data structures and algorithms, system development and modern AI technologies.
+        - generic [ref=e111]:
+          - generic [ref=e112]: Vijayawada, AP, India
+          - generic [ref=e113]: Available for Internships
+          - generic [ref=e114]: B.Tech CSE — LPU
+      - generic [ref=e116]:
+        - generic [ref=e119]: Currently Exploring
+        - generic [ref=e120]:
+          - generic [ref=e121]:
+            - generic [ref=e122]: "01"
+            - generic [ref=e123]: Generative AI
+            - generic [ref=e124]: →
+          - generic [ref=e125]:
+            - generic [ref=e126]: "02"
+            - generic [ref=e127]: Agentic AI
+            - generic [ref=e128]: →
+          - generic [ref=e129]:
+            - generic [ref=e130]: "03"
+            - generic [ref=e131]: Large Language Models
+            - generic [ref=e132]: →
+          - generic [ref=e133]:
+            - generic [ref=e134]: "04"
+            - generic [ref=e135]: Full-Stack Development
+            - generic [ref=e136]: →
+          - generic [ref=e137]:
+            - generic [ref=e138]: "05"
+            - generic [ref=e139]: Data Structures & Algorithms
+            - generic [ref=e140]: →
+          - generic [ref=e141]:
+            - generic [ref=e142]: "06"
+            - generic [ref=e143]: Cloud & DevOps
+            - generic [ref=e144]: →
+        - paragraph [ref=e146]:
+          - text: Actively building projects across these domains.
+          - text: Open to collaboration and learning opportunities.
+    - generic [ref=e149]:
+      - generic [ref=e151]: Process
+      - paragraph [ref=e152]: AI SYSTEM — Engineering Approach
+      - generic [ref=e153]:
+        - generic [ref=e154]:
+          - generic [ref=e156]:
+            - generic [ref=e157]: ◈
+            - paragraph [ref=e158]: INPUT
+            - paragraph [ref=e159]: Idea / Problem
+          - generic:
+            - generic:
+              - img
+        - generic [ref=e160]:
+          - generic [ref=e162]:
+            - generic [ref=e163]: ⬡
+            - paragraph [ref=e164]: THINK
+            - paragraph [ref=e165]: AI + Engineering
+          - generic:
+            - generic:
+              - img
+        - generic [ref=e166]:
+          - generic [ref=e168]:
+            - generic [ref=e169]: ◻
+            - paragraph [ref=e170]: BUILD
+            - paragraph [ref=e171]: Code + Systems
+          - generic:
+            - generic:
+              - img
+        - generic [ref=e174]:
+          - generic [ref=e175]: ◆
+          - paragraph [ref=e176]: SHIP
+          - paragraph [ref=e177]: Working Product
+      - paragraph [ref=e178]: My approach to turning ideas into working software
+    - generic [ref=e180]:
+      - generic [ref=e181]:
+        - generic [ref=e182]:
+          - generic [ref=e183]: Projects
+          - generic [ref=e185]: // 02
+        - heading "Selected Work" [level=2] [ref=e186]
+        - paragraph [ref=e187]: Building products that solve real problems.
+      - generic [ref=e188]:
+        - article [ref=e189]:
+          - generic [ref=e190]:
+            - generic [ref=e191]:
+              - generic [ref=e192]:
+                - generic [ref=e193]: "01"
+                - generic [ref=e194]:
+                  - paragraph [ref=e195]: Sep 2025 – Dec 2025
+                  - paragraph [ref=e196]: AI × Real-Time Communication × Full Stack
+              - heading "AI-Powered Video Calling Platform" [level=3] [ref=e197]
+              - paragraph [ref=e198]: An AI-enhanced real-time video communication platform built around WebRTC and Socket.io, with gesture recognition and interactive communication capabilities.
+              - generic [ref=e199]:
+                - generic [ref=e200]: Real-time audio/video communication via WebRTC
+                - generic [ref=e201]: Socket.io signaling for peer connections
+                - generic [ref=e202]: AI-powered gesture recognition with MediaPipe
+                - generic [ref=e203]: TensorFlow.js inference in the browser
+              - generic [ref=e204]:
+                - generic [ref=e205]: React.js
+                - generic [ref=e206]: TypeScript
+                - generic [ref=e207]: Node.js
+                - generic [ref=e208]: Express.js
+                - generic [ref=e209]: MongoDB
+                - generic [ref=e210]: Socket.io
+                - generic [ref=e211]: "+6"
+              - generic [ref=e212]:
+                - button "View Case Study" [ref=e213]:
+                  - text: View Case Study
+                  - img [ref=e214]
+                - generic [ref=e216]:
+                  - img [ref=e217]
+                  - text: Coming Soon
+            - generic [ref=e221]:
+              - generic [ref=e222]:
+                - generic [ref=e223]:
+                  - generic [ref=e224]: VM
+                  - generic [ref=e225]: GESTURE
+                - generic [ref=e228]: U1
+                - generic [ref=e230]: U2
+                - generic [ref=e232]: U3
+              - generic [ref=e233]:
+                - generic [ref=e234]:
+                  - generic [ref=e235]: M
+                  - generic [ref=e236]: C
+                  - generic [ref=e237]: E
+                - generic [ref=e238]: AI ACTIVE
+        - article [ref=e239]:
+          - generic [ref=e240]:
+            - generic [ref=e241]:
+              - generic [ref=e242]:
+                - generic [ref=e243]: "02"
+                - generic [ref=e244]:
+                  - paragraph [ref=e245]: Feb 2025 – Apr 2025
+                  - paragraph [ref=e246]: Generative AI × EdTech × Productivity
+              - heading "AI Study Table" [level=3] [ref=e247]
+              - paragraph [ref=e248]: Personalized AI Study Planner
+              - paragraph [ref=e249]: An AI-powered study planner designed to transform a student's syllabus, career goals and available study time into a personalized learning schedule.
+              - generic [ref=e250]:
+                - generic [ref=e251]: Syllabus analysis and topic structuring
+                - generic [ref=e252]: Study priority generation
+                - generic [ref=e253]: Personalized timetable creation
+                - generic [ref=e254]: Deadline-aware planning
+              - generic [ref=e255]:
+                - generic [ref=e256]: React.js
+                - generic [ref=e257]: TypeScript
+                - generic [ref=e258]: Node.js
+                - generic [ref=e259]: Express.js
+                - generic [ref=e260]: MongoDB
+                - generic [ref=e261]: OpenAI API
+                - generic [ref=e262]: "+1"
+              - generic [ref=e263]:
+                - button "View Case Study" [ref=e264]:
+                  - text: View Case Study
+                  - img [ref=e265]
+                - generic [ref=e267]:
+                  - img [ref=e268]
+                  - text: Coming Soon
+            - generic [ref=e272]:
+              - generic [ref=e275]: AI STUDY TABLE
+              - generic [ref=e276]:
+                - paragraph [ref=e278]: DSA
+                - paragraph [ref=e282]: AI/ML
+                - paragraph [ref=e286]: SE
+                - paragraph [ref=e290]: DBMS
+                - paragraph [ref=e294]: OS
+                - paragraph [ref=e298]: CN
+              - generic [ref=e301]:
+                - paragraph [ref=e302]: TODAY'S PLAN
+                - generic [ref=e305]: "DSA: Trees — 2h"
+                - generic [ref=e308]: "AI: Transformers — 1.5h"
+                - generic [ref=e311]: "SE: Design Patterns — 1h"
+        - article [ref=e312]:
+          - generic [ref=e313]:
+            - generic [ref=e314]:
+              - generic [ref=e315]:
+                - generic [ref=e316]: "03"
+                - generic [ref=e317]:
+                  - paragraph [ref=e318]: Dec 2024 – Jan 2025
+                  - paragraph [ref=e319]: Full Stack × AI × E-Commerce
+              - heading "vizz.co" [level=3] [ref=e320]
+              - paragraph [ref=e321]: AI-Enabled E-Commerce Platform
+              - paragraph [ref=e322]: An e-commerce platform concept designed to help clothing, accessories and footwear businesses establish and manage their own online storefront.
+              - generic [ref=e323]:
+                - generic [ref=e324]: Customer shopping experience
+                - generic [ref=e325]: Shop-owner management dashboard
+                - generic [ref=e326]: Product and order management
+                - generic [ref=e327]: Payment and business analytics
+              - generic [ref=e328]:
+                - generic [ref=e329]: React.js
+                - generic [ref=e330]: Node.js
+                - generic [ref=e331]: Express.js
+                - generic [ref=e332]: MongoDB
+                - generic [ref=e333]: JavaScript
+                - generic [ref=e334]: Tailwind CSS
+                - generic [ref=e335]: "+1"
+              - generic [ref=e336]:
+                - button "View Case Study" [ref=e337]:
+                  - text: View Case Study
+                  - img [ref=e338]
+                - generic [ref=e340]:
+                  - img [ref=e341]
+                  - text: Coming Soon
+            - generic [ref=e345]:
+              - generic [ref=e346]:
+                - generic [ref=e347]: VIZZ.CO DASHBOARD
+                - generic [ref=e348]:
+                  - generic [ref=e349]: ORDERS
+                  - generic [ref=e350]: ANALYTICS
+              - generic [ref=e351]:
+                - generic [ref=e352]:
+                  - paragraph [ref=e353]: Revenue
+                  - paragraph [ref=e354]: ₹1.2L
+                - generic [ref=e355]:
+                  - paragraph [ref=e356]: Orders
+                  - paragraph [ref=e357]: "284"
+                - generic [ref=e358]:
+                  - paragraph [ref=e359]: Products
+                  - paragraph [ref=e360]: "156"
+              - generic [ref=e361]:
+                - paragraph [ref=e362]: RECENT PRODUCTS
+                - generic [ref=e363]:
+                  - generic [ref=e364]: Classic White Sneakers
+                  - generic [ref=e365]: ₹2,499
+                - generic [ref=e366]:
+                  - generic [ref=e367]: Denim Jacket
+                  - generic [ref=e368]: ₹3,999
+                - generic [ref=e369]:
+                  - generic [ref=e370]: Canvas Tote
+                  - generic [ref=e371]: ₹899
+    - generic [ref=e373]:
+      - generic [ref=e374]:
+        - generic [ref=e375]:
+          - generic [ref=e376]: Skills
+          - generic [ref=e378]: // 03
+        - heading "Tech Stack" [level=2] [ref=e379]
+        - paragraph [ref=e380]: Technologies I work with across the full development stack.
+      - generic [ref=e381]:
+        - button "All" [ref=e382]
+        - button "Programming" [ref=e383]
+        - button "Frontend" [ref=e384]
+        - button "Backend" [ref=e385]
+        - button "AI / ML" [ref=e386]
+        - button "Databases" [ref=e387]
+        - button "Tools" [ref=e388]
+        - button "Soft Skills" [ref=e389]
+      - generic [ref=e390]:
+        - generic [ref=e391]:
+          - generic [ref=e393]: Programming
+          - generic [ref=e395]:
+            - generic [ref=e396]:
+              - img "Python" [ref=e397]
+              - generic [ref=e398]: Python
+            - generic [ref=e399]:
+              - img "Java" [ref=e400]
+              - generic [ref=e401]: Java
+            - generic [ref=e402]:
+              - img "JavaScript" [ref=e403]
+              - generic [ref=e404]: JavaScript
+            - generic [ref=e405]:
+              - img "C" [ref=e406]
+              - generic [ref=e407]: C
+            - generic [ref=e408]:
+              - img "C++" [ref=e409]
+              - generic [ref=e410]: C++
+        - generic [ref=e411]:
+          - generic [ref=e413]: Frontend
+          - generic [ref=e415]:
+            - generic [ref=e416]:
+              - img "HTML" [ref=e417]
+              - generic [ref=e418]: HTML
+            - generic [ref=e419]:
+              - img "CSS" [ref=e420]
+              - generic [ref=e421]: CSS
+            - generic [ref=e422]:
+              - img "React.js" [ref=e423]
+              - generic [ref=e424]: React.js
+            - generic [ref=e425]:
+              - img "TypeScript" [ref=e426]
+              - generic [ref=e427]: TypeScript
+            - generic [ref=e428]:
+              - img "Tailwind CSS" [ref=e429]
+              - generic [ref=e430]: Tailwind CSS
+        - generic [ref=e431]:
+          - generic [ref=e433]: Backend
+          - generic [ref=e435]:
+            - generic [ref=e436]:
+              - img "Node.js" [ref=e437]
+              - generic [ref=e438]: Node.js
+            - generic [ref=e439]:
+              - img "Express.js" [ref=e440]
+              - generic [ref=e441]: Express.js
+            - generic [ref=e442]:
+              - generic [ref=e443]: ◆
+              - generic [ref=e444]: REST APIs
+        - generic [ref=e445]:
+          - generic [ref=e447]: AI / ML
+          - generic [ref=e449]:
+            - generic [ref=e450]:
+              - generic [ref=e451]: ◆
+              - generic [ref=e452]: Machine Learning
+            - generic [ref=e453]:
+              - generic [ref=e454]: ◆
+              - generic [ref=e455]: Deep Learning
+            - generic [ref=e456]:
+              - generic [ref=e457]: ◆
+              - generic [ref=e458]: Generative AI
+            - generic [ref=e459]:
+              - generic [ref=e460]: ◆
+              - generic [ref=e461]: LLMs
+            - generic [ref=e462]:
+              - generic [ref=e463]: ◆
+              - generic [ref=e464]: NLP
+            - generic [ref=e465]:
+              - generic [ref=e466]: ◆
+              - generic [ref=e467]: Prompt Engineering
+        - generic [ref=e468]:
+          - generic [ref=e470]: Databases
+          - generic [ref=e472]:
+            - generic [ref=e473]:
+              - img "MySQL" [ref=e474]
+              - generic [ref=e475]: MySQL
+            - generic [ref=e476]:
+              - img "MongoDB" [ref=e477]
+              - generic [ref=e478]: MongoDB
+            - generic [ref=e479]:
+              - generic [ref=e480]: ◆
+              - generic [ref=e481]: SQL
+        - generic [ref=e482]:
+          - generic [ref=e484]: Tools
+          - generic [ref=e486]:
+            - generic [ref=e487]:
+              - img "Git" [ref=e488]
+              - generic [ref=e489]: Git
+            - generic [ref=e490]:
+              - img "GitHub" [ref=e491]
+              - generic [ref=e492]: GitHub
+            - generic [ref=e493]:
+              - img "Docker" [ref=e494]
+              - generic [ref=e495]: Docker
+            - generic [ref=e496]:
+              - img "Jupyter Notebook" [ref=e497]
+              - generic [ref=e498]: Jupyter Notebook
+            - generic [ref=e499]:
+              - img "VS Code" [ref=e500]
+              - generic [ref=e501]: VS Code
+            - generic [ref=e502]:
+              - img "Figma" [ref=e503]
+              - generic [ref=e504]: Figma
+        - generic [ref=e505]:
+          - generic [ref=e507]: Soft Skills
+          - generic [ref=e509]:
+            - generic [ref=e510]:
+              - generic [ref=e511]: ◆
+              - generic [ref=e512]: Problem Solving
+            - generic [ref=e513]:
+              - generic [ref=e514]: ◆
+              - generic [ref=e515]: Analytical Thinking
+            - generic [ref=e516]:
+              - generic [ref=e517]: ◆
+              - generic [ref=e518]: Team Collaboration
+            - generic [ref=e519]:
+              - generic [ref=e520]: ◆
+              - generic [ref=e521]: Communication
+            - generic [ref=e522]:
+              - generic [ref=e523]: ◆
+              - generic [ref=e524]: Time Management
+            - generic [ref=e525]:
+              - generic [ref=e526]: ◆
+              - generic [ref=e527]: Adaptability
+    - generic [ref=e529]:
+      - generic [ref=e530]:
+        - generic [ref=e531]:
+          - generic [ref=e532]: Experience
+          - generic [ref=e534]: // 04
+        - heading "Beyond the Code" [level=2] [ref=e535]
+      - generic [ref=e538]:
+        - generic [ref=e540]: R
+        - generic [ref=e541]:
+          - generic [ref=e542]:
+            - generic [ref=e543]:
+              - heading "Robotronics Pvt. Ltd." [level=3] [ref=e544]
+              - paragraph [ref=e545]: Robotics & Embedded Systems Trainee
+            - generic [ref=e546]:
+              - generic [ref=e547]:
+                - img [ref=e548]
+                - text: Nov 2025 – Apr 2026
+              - generic [ref=e550]:
+                - img [ref=e551]
+                - text: Hyderabad
+          - paragraph [ref=e554]: Completed diploma industrial training focused on robotics, automation, microcontrollers and hardware-software integration.
+          - generic [ref=e555]:
+            - generic [ref=e556]: Arduino & Raspberry Pi programming
+            - generic [ref=e558]: Sensor integration (Ultrasonic, IR, RF)
+            - generic [ref=e560]: Motor drivers and actuator control
+            - generic [ref=e562]: Autonomous robotic prototypes
+            - generic [ref=e564]: Line follower and obstacle avoidance robots
+            - generic [ref=e566]: Pick-and-place mechanism design
+            - generic [ref=e568]: Hardware-software debugging
+          - generic [ref=e570]:
+            - generic [ref=e571]: Arduino
+            - generic [ref=e572]: Raspberry Pi
+            - generic [ref=e573]: Sensors
+            - generic [ref=e574]: Automation
+            - generic [ref=e575]: Embedded Systems
+    - generic [ref=e577]:
+      - generic [ref=e578]:
+        - generic [ref=e579]:
+          - generic [ref=e580]: Credentials
+          - generic [ref=e582]: // 05
+        - heading "Learning Beyond the Classroom" [level=2] [ref=e583]:
+          - text: Learning Beyond
+          - text: the Classroom
+        - paragraph [ref=e584]: Industry certifications and job simulations completed alongside coursework.
+      - generic [ref=e585]:
+        - generic [ref=e586]:
+          - generic [ref=e587]:
+            - generic [ref=e588]: "01"
+            - img [ref=e590]
+          - paragraph [ref=e593]: IBM
+          - heading "Make Agentic AI Work for You" [level=3] [ref=e594]
+          - generic [ref=e596]: Professional Certificate
+          - generic [ref=e597]:
+            - generic [ref=e598]: June 2026
+            - generic [ref=e599]: Credential on file
+        - generic [ref=e600]:
+          - generic [ref=e601]:
+            - generic [ref=e602]: "02"
+            - img [ref=e604]
+          - paragraph [ref=e607]: Walmart USA × Forage
+          - heading "Advanced Software Engineering Job Simulation" [level=3] [ref=e608]
+          - generic [ref=e610]: Industry Simulation
+          - generic [ref=e611]:
+            - generic [ref=e612]: June 2026
+            - generic [ref=e613]: Credential on file
+        - generic [ref=e614]:
+          - generic [ref=e615]:
+            - generic [ref=e616]: "03"
+            - img [ref=e618]
+          - paragraph [ref=e621]: Tata × Forage
+          - heading "GenAI Powered Data Analytics Job Simulation" [level=3] [ref=e622]
+          - generic [ref=e624]: Industry Simulation
+          - generic [ref=e625]:
+            - generic [ref=e626]: October 2025
+            - generic [ref=e627]: Credential on file
+    - generic [ref=e629]:
+      - generic [ref=e630]:
+        - generic [ref=e631]:
+          - generic [ref=e632]: Education
+          - generic [ref=e634]: // 06
+        - heading "Academic Journey" [level=2] [ref=e635]
+      - generic [ref=e636]:
+        - generic [ref=e638]:
+          - img [ref=e640]
+          - generic [ref=e643]:
+            - generic [ref=e644]:
+              - generic [ref=e645]:
+                - generic [ref=e648]: Current
+                - heading "Lovely Professional University" [level=3] [ref=e649]
+              - generic [ref=e650]: 2026 – Present
+            - paragraph [ref=e651]: Bachelor of Technology – Computer Science and Engineering
+            - generic [ref=e652]:
+              - generic [ref=e653]:
+                - img [ref=e654]
+                - text: Punjab, India
+              - generic [ref=e657]: B.Tech
+        - generic [ref=e658]:
+          - img [ref=e660]
+          - generic [ref=e663]:
+            - generic [ref=e664]:
+              - generic [ref=e665]:
+                - generic [ref=e668]: Completed
+                - heading "DVR & Dr. HS MIC College of Technology" [level=3] [ref=e669]
+              - generic [ref=e670]: 2023 – 2026
+            - paragraph [ref=e671]: Diploma in Computer Engineering
+            - generic [ref=e672]:
+              - generic [ref=e673]:
+                - img [ref=e674]
+                - text: Andhra Pradesh, India
+              - generic [ref=e677]:
+                - generic [ref=e678]: "Score:"
+                - generic [ref=e679]: 85%
+              - generic [ref=e680]: Diploma
+        - generic [ref=e681]:
+          - img [ref=e683]
+          - generic [ref=e686]:
+            - generic [ref=e687]:
+              - generic [ref=e688]:
+                - generic [ref=e691]: Completed
+                - heading "St. Joseph's English Medium School" [level=3] [ref=e692]
+              - generic [ref=e693]: Completed 2023
+            - paragraph [ref=e694]: Secondary School Certificate (10th)
+            - generic [ref=e695]:
+              - generic [ref=e696]:
+                - img [ref=e697]
+                - text: Andhra Pradesh, India
+              - generic [ref=e700]:
+                - generic [ref=e701]: "Score:"
+                - generic [ref=e702]: 88%
+              - generic [ref=e703]: 10th Grade
+    - generic [ref=e704]:
+      - generic [ref=e708]: Currently Building My Edge
+      - generic [ref=e710]:
+        - generic [ref=e711]:
+          - generic [ref=e712]: "01"
+          - generic [ref=e713]: DSA & Problem Solving
+          - generic [ref=e714]: →
+        - generic [ref=e715]:
+          - generic [ref=e716]: "02"
+          - generic [ref=e717]: Java & Software Engineering
+          - generic [ref=e718]: →
+        - generic [ref=e719]:
+          - generic [ref=e720]: "03"
+          - generic [ref=e721]: Full-Stack Development
+          - generic [ref=e722]: →
+        - generic [ref=e723]:
+          - generic [ref=e724]: "04"
+          - generic [ref=e725]: Generative AI
+          - generic [ref=e726]: →
+        - generic [ref=e727]:
+          - generic [ref=e728]: "05"
+          - generic [ref=e729]: Agentic AI
+          - generic [ref=e730]: →
+        - generic [ref=e731]:
+          - generic [ref=e732]: "06"
+          - generic [ref=e733]: Cloud & DevOps
+          - generic [ref=e734]: →
+        - generic [ref=e735]:
+          - generic [ref=e736]: "01"
+          - generic [ref=e737]: DSA & Problem Solving
+          - generic [ref=e738]: →
+        - generic [ref=e739]:
+          - generic [ref=e740]: "02"
+          - generic [ref=e741]: Java & Software Engineering
+          - generic [ref=e742]: →
+        - generic [ref=e743]:
+          - generic [ref=e744]: "03"
+          - generic [ref=e745]: Full-Stack Development
+          - generic [ref=e746]: →
+        - generic [ref=e747]:
+          - generic [ref=e748]: "04"
+          - generic [ref=e749]: Generative AI
+          - generic [ref=e750]: →
+        - generic [ref=e751]:
+          - generic [ref=e752]: "05"
+          - generic [ref=e753]: Agentic AI
+          - generic [ref=e754]: →
+        - generic [ref=e755]:
+          - generic [ref=e756]: "06"
+          - generic [ref=e757]: Cloud & DevOps
+          - generic [ref=e758]: →
+    - generic [ref=e762]:
+      - generic [ref=e763]:
+        - generic [ref=e764]:
+          - img [ref=e765]
+          - generic [ref=e767]: What I'm Building
+        - heading "Explore my code, experiments and projects." [level=2] [ref=e768]:
+          - text: Explore my code, experiments
+          - text: and projects.
+        - paragraph [ref=e769]: All my projects, experiments and open-source contributions live on GitHub. Take a look at what I've been building.
+        - generic [ref=e770]: github.com/vizz-10
+      - generic [ref=e772]:
+        - link "Visit GitHub" [ref=e773] [cursor=pointer]:
+          - /url: https://github.com/vizz-10
+          - img [ref=e774]
+          - text: Visit GitHub
+          - img [ref=e776]
+        - paragraph [ref=e780]: No fabricated stats — real work only
+    - generic [ref=e782]:
+      - generic [ref=e783]:
+        - generic [ref=e784]:
+          - generic [ref=e785]: Contact
+          - generic [ref=e787]: // 07
+        - heading "Let's Build Something Useful." [level=2] [ref=e788]:
+          - text: Let's Build Something
+          - text: Useful.
+        - paragraph [ref=e789]: Open to internships, software engineering opportunities, collaborations and interesting technical projects.
+      - generic [ref=e790]:
+        - generic [ref=e791]:
+          - generic [ref=e792]:
+            - img [ref=e794]
+            - generic [ref=e797]:
+              - paragraph [ref=e798]: Email
+              - link "vishnumurthysonchuri@gmail.com" [ref=e799] [cursor=pointer]:
+                - /url: mailto:vishnumurthysonchuri@gmail.com
+          - generic [ref=e800]:
+            - img [ref=e802]
+            - generic [ref=e804]:
+              - paragraph [ref=e805]: Phone
+              - link "+91-9346808154" [ref=e806] [cursor=pointer]:
+                - /url: tel:+91-9346808154
+          - generic [ref=e807]:
+            - img [ref=e809]
+            - generic [ref=e812]:
+              - paragraph [ref=e813]: Location
+              - paragraph [ref=e814]: Vijayawada, Andhra Pradesh, India
+          - generic [ref=e815]:
+            - link "Email" [ref=e816] [cursor=pointer]:
+              - /url: mailto:vishnumurthysonchuri@gmail.com
+              - img [ref=e817]
+              - generic [ref=e820]: Email
+            - link "LinkedIn" [ref=e821] [cursor=pointer]:
+              - /url: https://www.linkedin.com/in/vishnumurthysonchuri/
+              - img [ref=e822]
+              - generic [ref=e824]: LinkedIn
+            - link "GitHub" [ref=e825] [cursor=pointer]:
+              - /url: https://github.com/vizz-10
+              - img [ref=e826]
+              - generic [ref=e828]: GitHub
+        - generic [ref=e830]:
+          - generic [ref=e831]:
+            - generic [ref=e832]: Name
+            - textbox "Name" [ref=e833]:
+              - /placeholder: Your name
+          - generic [ref=e834]:
+            - generic [ref=e835]: Email
+            - textbox "Email" [ref=e836]:
+              - /placeholder: your@email.com
+          - generic [ref=e837]:
+            - generic [ref=e838]: Message
+            - textbox "Message" [ref=e839]:
+              - /placeholder: Tell me about your project, opportunity or idea...
+          - button "Send Message" [ref=e840]
+          - paragraph [ref=e841]: Form backend not yet connected — wire up EmailJS, Resend, or Formspree to enable submissions.
+  - contentinfo [ref=e842]:
+    - generic [ref=e844]:
+      - generic [ref=e845]:
+        - generic [ref=e846]:
+          - generic [ref=e847]: VM
+          - generic [ref=e848]: Vishnu Murthy Sonchuri
+        - paragraph [ref=e849]: Computer Science × AI × Software Engineering
+      - generic [ref=e850]:
+        - link "GitHub" [ref=e851] [cursor=pointer]:
+          - /url: https://github.com/vizz-10
+          - img [ref=e852]
+        - link "LinkedIn" [ref=e854] [cursor=pointer]:
+          - /url: https://www.linkedin.com/in/vishnumurthysonchuri/
+          - img [ref=e855]
+        - link "Email" [ref=e857] [cursor=pointer]:
+          - /url: mailto:vishnumurthysonchuri@gmail.com
+          - img [ref=e858]
+      - generic [ref=e861]:
+        - paragraph [ref=e862]: © 2026 Vishnu Murthy Sonchuri
+        - paragraph [ref=e863]: Built with curiosity.

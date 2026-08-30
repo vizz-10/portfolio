@@ -142,12 +142,12 @@ export default function Hero() {
                 </button>
               </Magnetic>
               <a
-                href="#"
-                aria-label="Download Resume (not yet available)"
-                className="px-6 py-3 text-sm font-semibold text-white/70 border border-white/10 rounded-xl hover:border-white/25 hover:text-white transition-all duration-300 cursor-not-allowed opacity-60"
-                onClick={(e) => e.preventDefault()}
+                href="/Vishnu_Murthy_Sonchuri_Resume.docx"
+                aria-label="Download Resume"
+                className="px-6 py-3 text-sm font-semibold text-white/70 border border-white/10 rounded-xl hover:border-white/25 hover:text-white transition-all duration-300"
+                download
               >
-                Resume — Coming Soon
+                Download Resume
               </a>
             </motion.div>
 

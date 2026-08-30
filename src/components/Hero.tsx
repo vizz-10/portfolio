@@ -6,6 +6,7 @@ import { CONTACT } from "../lib/constants";
 import Magnetic from "./Magnetic";
 import Particles from "./Particles";
 import { usePrefersReducedMotion } from "../hooks/useMedia";
+import profileImage from "../assets/profile.jpg";
 
 const FLOAT_CARDS = [
   { label: "AI / ML", sub: "Engineering Intelligence", top: "8%", right: "-5%", delay: 0 },
@@ -203,29 +204,11 @@ export default function Hero() {
               <div className="relative w-72 h-80 sm:w-80 sm:h-96 lg:w-[380px] lg:h-[460px] rounded-2xl overflow-hidden border border-white/8 bg-[#0f0f1e]">
                 {/* Portrait image */}
                 <img
-                  src="/portfolio/profile.png"
+                  src={profileImage}
                   alt="Vishnu Murthy"
                   className="w-full h-full object-cover"
                   style={{ display: 'block' }}
-                  onLoad={() => console.log('✅ Profile image loaded successfully')}
-                  onError={(e) => {
-                    console.error('❌ Image failed to load:', e);
-                    console.error('Image src:', (e.target as HTMLImageElement).src);
-                    // Try root path as fallback
-                    (e.target as HTMLImageElement).src = '/profile.png';
-                  }}
                 />
-                {/* Fallback placeholder */}
-                <div className="fallback absolute inset-0 bg-gradient-to-br from-[#0f0f1e] via-[#141430] to-[#0c0c20] flex flex-col items-center justify-center hidden">
-                  <div className="relative">
-                    <div className="absolute inset-0 blur-2xl bg-[#7c3aed]/40 rounded-full scale-150" />
-                    <div className="relative w-32 h-32 rounded-full bg-gradient-to-br from-[#7c3aed] to-[#4f8ef7] flex items-center justify-center">
-                      <span className="text-4xl font-display font-800 text-white tracking-tight">
-                        VM
-                      </span>
-                    </div>
-                  </div>
-                </div>
 
                 {/* Bottom gradient fade */}
                 <div className="absolute bottom-0 left-0 right-0 h-24 bg-gradient-to-t from-[#07070e] to-transparent z-10" />

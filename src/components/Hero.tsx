@@ -92,12 +92,22 @@ export default function Hero() {
               <span className="section-label">Computer Science × AI × Software Engineering</span>
             </motion.div>
 
-            {/* Headline */}
+            {/* Name */}
             <motion.h1
+              initial={{ opacity: 0, y: 40 }}
+              animate={{ opacity: 1, y: 0 }}
+              transition={{ duration: 0.8, delay: 0.15, ease: [0.16, 1, 0.3, 1] }}
+              className="text-display-xl gradient-text mb-6"
+            >
+              VISHNU MURTHY SONCHURI
+            </motion.h1>
+
+            {/* Headline */}
+            <motion.h2
               initial={{ opacity: 0 }}
               animate={{ opacity: 1 }}
               transition={{ duration: 0.4, delay: 0.2 }}
-              className="text-display-xl text-white mb-6"
+              className="text-display-lg text-white mb-6"
             >
               {["BUILDING", "INTELLIGENT", "DIGITAL", "PRODUCTS."].map((word, i) => (
                 <motion.span
@@ -110,7 +120,7 @@ export default function Hero() {
                   {word}
                 </motion.span>
               ))}
-            </motion.h1>
+            </motion.h2>
 
             {/* Supporting text */}
             <motion.p

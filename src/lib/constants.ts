@@ -10,7 +10,7 @@ export const NAV_LINKS = [
 ];
 
 export const STATS = [
-  { value: 200, suffix: "+", label: "Coding Problems Solved" },
+  { value: 50, suffix: "+", label: "Coding Problems Solved" },
   { value: 3, suffix: "", label: "Major Projects" },
   { value: 3, suffix: "", label: "Industry Credentials" },
   { value: 2026, suffix: "", label: "B.Tech Journey Begins" },
@@ -306,7 +306,7 @@ export const EDUCATION = [
     institution: "Lovely Professional University",
     degree: "Bachelor of Technology – Computer Science and Engineering",
     level: "B.Tech",
-    period: "2026 – Present",
+    period: "Aug 2026 – Present",
     location: "Punjab, India",
     status: "current",
   },
@@ -315,9 +315,8 @@ export const EDUCATION = [
     institution: "DVR & Dr. HS MIC College of Technology",
     degree: "Diploma in Computer Engineering",
     level: "Diploma",
-    period: "2023 – 2026",
-    location: "Andhra Pradesh, India",
-    percentage: "85%",
+    period: "Aug 2023 – Apr 2026",
+    location: "Vijayawada, Andhra Pradesh, India",
     status: "completed",
   },
   {
@@ -325,9 +324,9 @@ export const EDUCATION = [
     institution: "St. Joseph's English Medium School",
     degree: "Secondary School Certificate (10th)",
     level: "10th Grade",
-    period: "Completed 2023",
-    location: "Andhra Pradesh, India",
-    percentage: "88%",
+    period: "Jun 2022 – Mar 2023",
+    location: "Vijayawada, Andhra Pradesh, India",
+    percentage: "75.83%",
     status: "completed",
   },
 ];

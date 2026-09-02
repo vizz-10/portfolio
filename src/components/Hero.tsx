@@ -7,11 +7,12 @@ import Magnetic from "./Magnetic";
 import Particles from "./Particles";
 import { usePrefersReducedMotion } from "../hooks/useMedia";
 import profileImage from "../assets/profile.jpg";
+import resumeFile from "../assets/Vishnu_Murthy_Sonchuri_Resume.pdf";
 
 const FLOAT_CARDS = [
   { label: "AI / ML", sub: "Engineering Intelligence", top: "8%", right: "-5%", delay: 0 },
   { label: "FULL STACK", sub: "End-to-End Products", top: "55%", right: "-8%", delay: 0.15 },
-  { label: "200+ Problems", sub: "LeetCode & Beyond", top: "78%", left: "-5%", delay: 0.3 },
+  { label: "50+ Problems", sub: "LeetCode & Beyond", top: "78%", left: "-5%", delay: 0.3 },
   { label: "SWE", sub: "Software Engineering", top: "18%", left: "-8%", delay: 0.45 },
 ];
 
@@ -153,10 +154,10 @@ export default function Hero() {
                 </button>
               </Magnetic>
               <a
-                href="/Vishnu_Murthy_Sonchuri_Resume.docx"
+                href={resumeFile}
                 aria-label="Download Resume"
                 className="px-6 py-3 text-sm font-semibold text-white/70 border border-white/10 rounded-xl hover:border-white/25 hover:text-white transition-all duration-300"
-                download
+                download="Vishnu_Murthy_Sonchuri_Resume.pdf"
               >
                 Download Resume
               </a>

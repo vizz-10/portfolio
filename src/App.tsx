@@ -1,6 +1,5 @@
 import { lazy, Suspense } from "react";
 import SkipLink from "./components/SkipLink";
-import CustomCursor from "./components/CustomCursor";
 import Navbar from "./components/Navbar";
 import Hero from "./components/Hero";
 import Stats from "./components/Stats";
@@ -22,7 +21,6 @@ export default function App() {
   return (
     <div className="min-h-screen bg-[#07070e]">
       <SkipLink />
-      <CustomCursor />
       <Navbar />
       <main>
         <Hero />

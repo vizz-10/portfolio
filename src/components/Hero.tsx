@@ -18,6 +18,25 @@ const FLOAT_CARDS = [
 export default function Hero() {
   const containerRef = useRef<HTMLDivElement>(null);
   const reduce = usePrefersReducedMotion();
+
+  const handleDownloadResume = async () => {
+    try {
+      const response = await fetch('/portfolio/resume.pdf');
+      const blob = await response.blob();
+      const url = window.URL.createObjectURL(blob);
+      const a = document.createElement('a');
+      a.href = url;
+      a.download = 'Vishnu_Murthy_Resume.pdf';
+      document.body.appendChild(a);
+      a.click();
+      window.URL.revokeObjectURL(url);
+      document.body.removeChild(a);
+    } catch (error) {
+      console.error('Error downloading resume:', error);
+      // Fallback to direct link
+      window.open('/portfolio/resume.pdf', '_blank');
+    }
+  };
   const mouseX = useMotionValue(0);
   const mouseY = useMotionValue(0);
 
@@ -152,16 +171,13 @@ export default function Hero() {
                   />
                 </button>
               </Magnetic>
-              <a
-                href="/portfolio/resume.pdf"
+              <button
+                onClick={handleDownloadResume}
                 aria-label="Download Resume"
                 className="px-6 py-3 text-sm font-semibold text-white/70 border border-white/10 rounded-xl hover:border-white/25 hover:text-white transition-all duration-300"
-                download="Vishnu_Murthy_Resume.pdf"
-                target="_blank"
-                rel="noopener noreferrer"
               >
                 Download Resume
-              </a>
+              </button>
             </motion.div>
 
             {/* Social links */}

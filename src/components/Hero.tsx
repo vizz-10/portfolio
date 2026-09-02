@@ -153,7 +153,7 @@ export default function Hero() {
                 </button>
               </Magnetic>
               <a
-                href="/Vishnu_Murthy_Sonchuri_Resume.docx"
+                href="/resume.pdf"
                 aria-label="Download Resume"
                 className="px-6 py-3 text-sm font-semibold text-white/70 border border-white/10 rounded-xl hover:border-white/25 hover:text-white transition-all duration-300"
                 download

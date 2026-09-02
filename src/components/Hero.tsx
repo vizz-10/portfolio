@@ -156,7 +156,9 @@ export default function Hero() {
                 href="/portfolio/resume.pdf"
                 aria-label="Download Resume"
                 className="px-6 py-3 text-sm font-semibold text-white/70 border border-white/10 rounded-xl hover:border-white/25 hover:text-white transition-all duration-300"
-                download
+                download="Vishnu_Murthy_Resume.pdf"
+                target="_blank"
+                rel="noopener noreferrer"
               >
                 Download Resume
               </a>

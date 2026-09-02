@@ -3,7 +3,7 @@ import { Award, ExternalLink } from "lucide-react";
 import { CREDENTIALS } from "../lib/constants";
 import { staggerContainer, fadeUp, scaleOnScroll } from "../lib/animations";
 
-const CARD_COLORS = ["#7c3aed", "#4f8ef7", "#06b6d4"];
+const CARD_COLORS = ["#7c3aed", "#4f8ef7", "#06b6d4", "#f59e0b", "#10b981"];
 
 export default function Credentials() {
   return (
@@ -33,9 +33,9 @@ export default function Credentials() {
         </motion.div>
 
         {/* Cards grid */}
-        <div className="grid sm:grid-cols-2 lg:grid-cols-3 gap-5">
+        <div className="grid sm:grid-cols-2 lg:grid-cols-3 xl:grid-cols-5 gap-5">
           {CREDENTIALS.map((cred, i) => {
-            const accent = CARD_COLORS[i];
+            const accent = CARD_COLORS[i % CARD_COLORS.length];
             return (
               <motion.div
                 key={cred.id}

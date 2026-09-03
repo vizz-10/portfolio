@@ -7,7 +7,7 @@ const CARD_COLORS = ["#7c3aed", "#4f8ef7", "#06b6d4", "#f59e0b", "#10b981"];
 
 export default function Credentials() {
   return (
-    <section id="credentials" className="py-28 lg:py-36">
+    <section id="credentials" className="py-16 lg:py-20">
       <div className="max-w-7xl mx-auto px-6 lg:px-10">
         {/* Header */}
         <motion.div
@@ -15,7 +15,7 @@ export default function Credentials() {
           initial="hidden"
           whileInView="visible"
           viewport={{ once: true, margin: "-60px" }}
-          className="mb-16"
+          className="mb-10"
         >
           <motion.div variants={fadeUp} className="flex items-center gap-3 mb-6">
             <span className="section-label">Credentials</span>

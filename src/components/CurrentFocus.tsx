@@ -7,7 +7,7 @@ export default function CurrentFocus() {
   const items = [...CURRENT_FOCUS, ...CURRENT_FOCUS];
 
   return (
-    <section className="py-20 border-y border-white/5 overflow-hidden">
+    <section className="py-12 border-y border-white/5 overflow-hidden">
       <div className="max-w-7xl mx-auto px-6 lg:px-10 mb-10">
         <div className="flex items-center gap-3">
           <span className="w-2 h-2 rounded-full bg-[#6366f1] animate-pulse" />

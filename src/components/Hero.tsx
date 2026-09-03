@@ -74,7 +74,7 @@ export default function Hero() {
       ref={containerRef}
       onMouseMove={handleMouseMove}
       onMouseLeave={handleMouseLeave}
-      className="relative min-h-screen flex items-center overflow-hidden bg-grid"
+      className="relative min-h-[70vh] flex items-center overflow-hidden bg-grid"
     >
       {/* Particles background */}
       <Particles />
@@ -96,7 +96,7 @@ export default function Hero() {
         <div className="absolute top-3/4 left-0 right-0 h-px bg-gradient-to-r from-transparent via-white/4 to-transparent" />
       </div>
 
-      <div className="max-w-7xl mx-auto px-6 lg:px-10 pt-28 pb-16 w-full">
+      <div className="max-w-7xl mx-auto px-6 lg:px-10 pt-16 pb-8 w-full">
         <div className="grid lg:grid-cols-2 gap-12 lg:gap-6 items-center">
           {/* Left content */}
           <div className="order-2 lg:order-1">
@@ -105,7 +105,7 @@ export default function Hero() {
               initial={{ opacity: 0, y: 20 }}
               animate={{ opacity: 1, y: 0 }}
               transition={{ duration: 0.6, delay: 0.1 }}
-              className="flex items-center gap-3 mb-8"
+              className="flex items-center gap-3 mb-4"
             >
               <span className="w-8 h-px bg-gradient-to-r from-[#7c3aed] to-[#4f8ef7]" />
               <span className="section-label">Computer Science × AI × Software Engineering</span>
@@ -146,7 +146,7 @@ export default function Hero() {
               initial={{ opacity: 0, y: 20 }}
               animate={{ opacity: 1, y: 0 }}
               transition={{ duration: 0.7, delay: 0.7 }}
-              className="text-[#8888aa] text-lg leading-relaxed max-w-lg mb-10"
+              className="text-[#8888aa] text-lg leading-relaxed max-w-lg mb-6"
             >
               I'm Vishnu Murthy, a Computer Science Engineering student focused on software
               engineering, artificial intelligence and full-stack product development.
@@ -157,7 +157,7 @@ export default function Hero() {
               initial={{ opacity: 0, y: 20 }}
               animate={{ opacity: 1, y: 0 }}
               transition={{ duration: 0.7, delay: 0.85 }}
-              className="flex flex-wrap gap-3 mb-12"
+              className="flex flex-wrap gap-3 mb-8"
             >
               <Magnetic>
                 <button

@@ -74,14 +74,14 @@ export default function Contact() {
   };
 
   return (
-    <section id="contact" className="py-28 lg:py-36">
+    <section id="contact" className="py-16 lg:py-20">
       <div className="max-w-7xl mx-auto px-6 lg:px-10">
         <motion.div
           variants={staggerContainer}
           initial="hidden"
           whileInView="visible"
           viewport={{ once: true, margin: "-60px" }}
-          className="mb-16"
+          className="mb-10"
         >
           <motion.div variants={fadeUp} className="flex items-center gap-3 mb-6">
             <span className="section-label">Contact</span>

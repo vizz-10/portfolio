@@ -4,7 +4,7 @@ import { CURRENTLY_EXPLORING } from "../lib/constants";
 
 export default function About() {
   return (
-    <section id="about" className="py-28 lg:py-36">
+    <section id="about" className="py-16 lg:py-20">
       <div className="max-w-7xl mx-auto px-6 lg:px-10">
         <div className="grid lg:grid-cols-[1fr_480px] gap-16 lg:gap-24 items-start">
           {/* Left */}

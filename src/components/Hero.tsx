@@ -74,7 +74,7 @@ export default function Hero() {
       ref={containerRef}
       onMouseMove={handleMouseMove}
       onMouseLeave={handleMouseLeave}
-      className="relative min-h-[70vh] flex items-center overflow-hidden bg-grid"
+      className="relative min-h-[60vh] flex items-center overflow-hidden bg-grid"
     >
       {/* Particles background */}
       <Particles />
@@ -96,7 +96,7 @@ export default function Hero() {
         <div className="absolute top-3/4 left-0 right-0 h-px bg-gradient-to-r from-transparent via-white/4 to-transparent" />
       </div>
 
-      <div className="max-w-7xl mx-auto px-6 lg:px-10 pt-16 pb-8 w-full">
+      <div className="max-w-7xl mx-auto px-6 lg:px-10 pt-12 pb-6 w-full">
         <div className="grid lg:grid-cols-2 gap-12 lg:gap-6 items-center">
           {/* Left content */}
           <div className="order-2 lg:order-1">
@@ -116,7 +116,7 @@ export default function Hero() {
               initial={{ opacity: 0, y: 40 }}
               animate={{ opacity: 1, y: 0 }}
               transition={{ duration: 0.8, delay: 0.15, ease: [0.16, 1, 0.3, 1] }}
-              className="text-display-xl gradient-text mb-6"
+              className="text-display-xl gradient-text mb-4"
             >
               VISHNU MURTHY SONCHURI
             </motion.h1>
@@ -126,7 +126,7 @@ export default function Hero() {
               initial={{ opacity: 0 }}
               animate={{ opacity: 1 }}
               transition={{ duration: 0.4, delay: 0.2 }}
-              className="text-display-lg text-white mb-6"
+              className="text-display-lg text-white mb-4"
             >
               {["BUILDING", "INTELLIGENT", "DIGITAL", "PRODUCTS."].map((word, i) => (
                 <motion.span
@@ -146,7 +146,7 @@ export default function Hero() {
               initial={{ opacity: 0, y: 20 }}
               animate={{ opacity: 1, y: 0 }}
               transition={{ duration: 0.7, delay: 0.7 }}
-              className="text-[#8888aa] text-lg leading-relaxed max-w-lg mb-6"
+              className="text-[#8888aa] text-lg leading-relaxed max-w-lg mb-4"
             >
               I'm Vishnu Murthy, a Computer Science Engineering student focused on software
               engineering, artificial intelligence and full-stack product development.

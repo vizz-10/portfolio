@@ -168,7 +168,7 @@ export default function Projects() {
   const [selectedProject, setSelectedProject] = useState<Project | null>(null);
 
   return (
-    <section id="projects" className="py-16 lg:py-20">
+    <section id="projects" className="py-12 lg:py-16">
       <div className="max-w-7xl mx-auto px-6 lg:px-10">
         {/* Header */}
         <motion.div
@@ -176,9 +176,9 @@ export default function Projects() {
           initial="hidden"
           whileInView="visible"
           viewport={{ once: true, margin: "-60px" }}
-          className="mb-10"
+          className="mb-8"
         >
-          <motion.div variants={fadeUp} className="flex items-center gap-3 mb-6">
+          <motion.div variants={fadeUp} className="flex items-center gap-3 mb-4">
             <span className="section-label">Projects</span>
             <span className="flex-1 h-px bg-white/6" />
             <span className="text-xs font-mono text-white/15">// 02</span>

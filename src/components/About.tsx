@@ -4,7 +4,7 @@ import { CURRENTLY_EXPLORING } from "../lib/constants";
 
 export default function About() {
   return (
-    <section id="about" className="py-16 lg:py-20">
+    <section id="about" className="py-12 lg:py-16">
       <div className="max-w-7xl mx-auto px-6 lg:px-10">
         <div className="grid lg:grid-cols-[1fr_480px] gap-16 lg:gap-24 items-start">
           {/* Left */}
@@ -14,13 +14,13 @@ export default function About() {
             whileInView="visible"
             viewport={{ once: true, margin: "-80px" }}
           >
-            <motion.div variants={fadeUp} className="flex items-center gap-3 mb-6">
+            <motion.div variants={fadeUp} className="flex items-center gap-3 mb-4">
               <span className="section-label">About</span>
               <span className="flex-1 h-px bg-white/6" />
               <span className="text-xs font-mono text-white/15">// 01</span>
             </motion.div>
 
-            <motion.h2 variants={fadeUp} className="text-display-lg text-white mb-10">
+            <motion.h2 variants={fadeUp} className="text-display-lg text-white mb-8">
               Engineering with
               <br />
               <span className="gradient-text">Curiosity.</span>
@@ -68,7 +68,7 @@ export default function About() {
             viewport={{ once: true, margin: "-80px" }}
           >
             <div className="glass rounded-2xl p-8">
-              <div className="flex items-center gap-2 mb-8">
+              <div className="flex items-center gap-2 mb-6">
                 <span className="w-2 h-2 rounded-full bg-[#4ade80] animate-pulse" />
                 <span className="text-xs font-mono tracking-widest uppercase text-white/40">
                   Currently Exploring
